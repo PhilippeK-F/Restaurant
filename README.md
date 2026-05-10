@@ -45,14 +45,6 @@ Outil Usage HTML5, Structure sémantique (header, nav, main, section, article, f
 CSS3 Mise en page, animations, responsive design
 JavaScript Interactions et plugins.
 
-Comment utiliser ce projet :
-
-Clone le repo :
-
-- bashgit clone https://github.com/TON_USERNAME/Restaurant.git
-
-Ouvre simplement index.html dans ton navigateur — aucune installation requise.
-
 Auteur :
 Philippe Kirstetter-Fender
 Projet personnel — intégration web HTML5 / CSS3 / JavaScript
